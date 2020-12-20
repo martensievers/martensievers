@@ -1,4 +1,4 @@
-### Hi, I'm Marten 👋
+# Hi, I'm Marten 👋👨🏼‍💻
 
 I'm a software developer currently working on Node.js API's at Tjek!
 
