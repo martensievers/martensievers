@@ -9,3 +9,24 @@ I'm a software developer passionate about anything related to building new appli
 - 🤔 I’m looking for help with tech-team leadership questions.
 - 💬 Ask me about anything, I like to share my experience and talk to others.
 - 📫 How to reach me: hello@martensievers.com
+
+### Mentoring
+
+As a junior developer I enjoy giving back to others that start in the same footsteps as me, which is why I have been working as a tutor at TechLabs Copenhagen.
+
+### Latest courses
+
+- 🧑🏼‍💻 [LearnNode](https://learnnode.com) 🔥
+
+### Marten Uses
+
+#### Editor + Terminal
+
+- [WebStorm]() is my current editor which I switched to in August 2019 after years of Visual Studio Code
+- I use a theme called Cobalt2 which was created by Wesbos
+- Safari has been my main browser since January 2020
+- I currently use Hyper for my terminal
+
+#### Desk Setup
+
+- My main monitor is a 27" 4K LG. I usually run this at 1440 or 1692. Best deverloper monitor bang for your buck hands down unless you want to go for the 32" version of this monitor.
