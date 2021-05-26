@@ -1,6 +1,6 @@
 # Hi, I'm Marten 👋👨🏼‍💻
 
-I'm a software engineer passionate about anything related to building new applications that aim at making peoples everyday better! I'm currently working at [Tjek](https://tjek.com) where we created a new format to automate the created of new truly digital experiences for retailers in the digital era.
+I'm a software developer passionate about anything related to building new applications that aim at making peoples everyday better! I'm currently working at [Tjek](https://tjek.com) where we created a new format to automate the created of new truly digital experiences for retailers in the digital era.
 
 ### About me
 
