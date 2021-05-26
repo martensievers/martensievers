@@ -1,10 +1,10 @@
 # Hi, I'm Marten 👋👨🏼‍💻
 
-I'm a software developer passionate about anything related to building new applications that aim at making peoples everyday better! I'm currently working at Tjek where we created a new format to automate the created of new truly digital experiences for retailers in the digital era.
+I'm a software engineer passionate about anything related to building new applications that aim at making peoples everyday better! I'm currently working at [Tjek](https://tjek.com) where we created a new format to automate the created of new truly digital experiences for retailers in the digital era.
 
 ### About me
 
-- 🔭 I’m currently working on Incito, a SaaS for data-driven visualization.
+- 🔭 I’m currently working on [Incito](https://incito.io), a SaaS for data-driven visualization.
 - 🌱 I’m currently learning more about databases like MongoDB and Postgres.
 - 🤔 I’m looking for help with tech-team leadership questions.
 - 💬 Ask me about anything, I like to share my experience and talk to others.
@@ -12,10 +12,11 @@ I'm a software developer passionate about anything related to building new appli
 
 ### Mentoring
 
-As a junior developer I enjoy giving back to others that start in the same footsteps as me, which is why I have been working as a tutor at TechLabs Copenhagen.
+As a junior developer I enjoy giving back to others that start in the same footsteps as me, which is why I have been working as a tutor at [TechLabs Copenhagen](https://www.techlabs.org/location/copenhagen) in the digital shaper web development program.
 
 ### Latest courses
 
+- 📦 [Docker Mastery](https://www.udemy.com/course/docker-mastery/) ⏳
 - 🧑🏼‍💻 [LearnNode](https://learnnode.com) 🔥
 
 ### Marten Uses
