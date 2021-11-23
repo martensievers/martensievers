@@ -17,7 +17,8 @@ As a junior developer I enjoy giving back to others that start in the same foots
 ### Latest courses
 
 - 📦 [Docker Mastery](https://www.udemy.com/course/docker-mastery/) ⏳
-- 🧑🏼‍💻 [LearnNode](https://learnnode.com) 🔥
+- 🧑🏼‍💻 [LearnNode](https://learnnode.com/) 🔥
+- 📑 [PostgreSQL](https://www.udemy.com/course/sql-and-postgresql-for-beginners/) 🏁
 
 ### Marten Uses
 
