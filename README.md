@@ -1,17 +1,17 @@
 # Hi, I'm Marten 👋👨🏼‍💻
 
-I'm a Full-Stack JavaScript developer passionate about anything related to building new applications that aim at making peoples everyday better! I'm currently working at [Tjek](https://tjek.com) where we built and ecosystem of apps and apis to help people and businesses organize their shopping and keep track of their promotions.
+I'm a senior software engineer bridging UI magic with bvackend power to creaft seamless digital experiences. I'm passionate about anything related to building new applications that aim at making peoples everyday better!
 
 ### About me
 
-- 🔭 I’m currently working on our internal CMS and backend API.
-- 🌱 I’m currently learning more about React, GraphQL, and Postgres.
+- 🔭 I’m currently working on our internal CMS, APIs, and image classification.
+- 🌱 I’m currently learning more about terraform and IoC in general.
 - 💬 Ask me about anything, I like to share my experience and talk to others.
-- 📫 How to reach me: hello@martensievers.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martensievers).
 
 ### Mentoring
 
-As a professional developer I enjoy giving back to others that start in the same footsteps as me, which is why I have been working as a tutor at [TechLabs Copenhagen](https://www.techlabs.org/location/copenhagen) in the digital shaper web development program.
+As a senior engineer I enjoy giving back to others that start in the same footsteps as me, which is why I have been working as a tutor at [TechLabs Copenhagen](https://www.techlabs.org/location/copenhagen) in the digital shaper web development program.
 
 ### Latest courses
 
@@ -26,9 +26,9 @@ As a professional developer I enjoy giving back to others that start in the same
 - I use a theme called Cobalt2 which was created by Wesbos 🐐
 - Safari has been my main browser since January 2020
 - I currently use Hyper as my terminal of choice
-- GitHub Co-Pilot helps me to optimize my workflow for repetitive things
+- Jetbrains-AI has replaced GitHub Co-Pilot for better IDE integration
 
 #### Desk Setup
 
-- MacBook Pro 16" - M2
+- MacBook Pro 16" - M1 Pro
 - My main monitor is a 32" 4K LG
