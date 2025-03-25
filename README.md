@@ -1,6 +1,6 @@
 # Hi, I'm Marten 👋👨🏼‍💻
 
-I'm a senior software engineer bridging UI magic with bvackend power to creaft seamless digital experiences. I'm passionate about anything related to building new applications that aim at making peoples everyday better!
+I'm a senior software engineer bridging UI magic with backend power to creaft seamless digital experiences. I'm passionate about anything related to building new applications that aim at making peoples everyday better!
 
 ### About me
 
